@@ -52,4 +52,4 @@ classes_path指向检测类别所对应的txt。
 ```c
 printf("hello word!")
 ```
- ![大头猫](QQ图片20230409012120.jpg)
+ ![大头猫](QQ%E5%9B%BE%E7%89%8720230409012120.jpg)
